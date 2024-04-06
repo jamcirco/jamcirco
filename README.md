@@ -1,4 +1,4 @@
-# [@vhpx](https://github.com/vhpx) / About me
+# [@jamcicro](https://github.com/jamcicro) / About me
 
 <p align="center">
     <a href="#">
@@ -17,7 +17,7 @@
 
 <p align="center">
     <a href="#github-trophies">
-        <img src="https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4" alt="@vhpx's Github Trophies" />
+        <img src="[https://github-profile-trophy.vercel.app/?username=vhpx&theme=dracula&no-frame=true&no-bg=false&margin-w=4](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)" alt="@vhpx's Github Trophies" />
     </a>
 </p>
 
