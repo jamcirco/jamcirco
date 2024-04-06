@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/vhpx/vhpx/master/images/background.png">
+        <img src="[https://raw.githubusercontent.com/vhpx/vhpx/master/images/background.png](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)">
     </a>
 </p>
 
