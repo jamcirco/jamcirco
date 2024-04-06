@@ -1,4 +1,4 @@
-# [@jamcicro](https://github.com/jamcicro) / About me
+# <p style="color: #138d6c;"> [@jamcicro](https://github.com/jamcicro) </p>/ About me
 
 <p align="center">
     <a href="#">
