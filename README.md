@@ -7,7 +7,7 @@
     </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm
+<h1 align="center" color="red">Hi 👋, I'm
     <a href="https://www.vohoangphuc.com">Nhat Luu Quoc</a>.
 </h1>
 <h3 align="center">A passionate fullstack developer from
